@@ -37,7 +37,7 @@ The project is live on Netlify, you can try out the different breakpoints 😉
 
 ### Phone
 
-![Phone](https://ibb.co/CzWwp3K)
+[url=https://ibb.co/CzWwp3K][img]https://i.ibb.co/FKnhkL4/mobile.webp[/img][/url]
 
 ## Badge 🥇
 

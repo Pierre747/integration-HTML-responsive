@@ -27,9 +27,15 @@ The project is live on Netlify, you can try out the different breakpoints 😉
 
 ## Screenshots 📷
 
+### Browser
+
 ![Browser](https://i.ibb.co/BrkWSRY/browser.webp)
 
+### Tablet
+
 ![Tablet](https://i.ibb.co/8MDzh4h/tablet.webp)
+
+### Phone
 
 ![Phone](https://i.ibb.co/5621Xgh/mobile.webp)
 

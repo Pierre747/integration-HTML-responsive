@@ -159,3 +159,12 @@ button {
 		height: 33px;
 	}
 }
+
+@media screen and (max-height: 900px) {
+	body {
+		overflow-y: visible;
+	}
+	.infos {
+		position: relative;
+	}
+}

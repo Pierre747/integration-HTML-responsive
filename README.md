@@ -9,6 +9,11 @@ My first HTML integration using a blueprint of three different result that would
 
 - A Smartphone
 
+The blueprints are available in the folder :
+```bash
+sketch > ...
+```
+
 The goal was to work with the display grid and the media queries in order to produce a simple responsive integration.
 
 ## Deployment 🛫
